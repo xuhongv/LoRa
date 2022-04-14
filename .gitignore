@@ -48,4 +48,5 @@ JLinkLog.txt
 *.__i
 *.bak
 .uvgui
-*.dbgconf
+
+**/PROJECT/*.dbgconf
