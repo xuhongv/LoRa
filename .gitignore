@@ -7,6 +7,17 @@ GTAGS
 GRTAGS
 GPATH
 
+# VS Code Settings
+.vscode/
+
+# VIM files
+*.swp
+*.swo
+
+# Clion IDE CMake build & config
+.idea/
+cmake-build-*/
+
 # emacs
 .dir-locals.el
 
