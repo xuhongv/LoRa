@@ -49,4 +49,4 @@ JLinkLog.txt
 *.bak
 .uvgui
 
-**/PROJECT/*.dbgconf
+**/PROJECT/DebugConfig
