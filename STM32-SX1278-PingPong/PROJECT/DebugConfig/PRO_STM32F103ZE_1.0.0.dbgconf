@@ -12,7 +12,7 @@
 // <i> Debug Standby Mode
 // <i> 0: (FCLK=Off, HCLK=Off) The whole digital part is unpowered.
 // <i> 1: (FCLK=On, HCLK=On) Digital part is powered and FCLK and HCLK are provided by the internal RC oscillator which remains active
-//   <o0.8>    DBG_IWDG_STOP
+//   <o0.8>    DBG_IWDG_STOP 22222222222
 // <i> Debug independent watchdog stopped when core is halted
 // <i> 0: The watchdog counter clock continues even if the core is halted
 // <i> 1: The watchdog counter clock is stopped when the core is halted
