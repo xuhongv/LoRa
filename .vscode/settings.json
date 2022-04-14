@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "spix.h": "c",
+        "oled.h": "c"
+    }
+}

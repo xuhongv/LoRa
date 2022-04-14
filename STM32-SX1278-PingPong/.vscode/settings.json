@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "delay.h": "c",
+        "uart.h": "c",
+        "nvic.h": "c",
+        "oled.h": "c",
+        "stm32f10x.h": "c",
+        "adc.h": "c",
+        "stdlib.h": "c",
+        "iic.h": "c",
+        "font.h": "c",
+        "spix.h": "c",
+        "sx1278.h": "c",
+        "modbus_rtu.h": "c"
+    }
+}
